@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Civic Center",
+          "short_name": "Civic Center",
+          "types": ["neighborhood", "political"]
+        },
+        {
+          "long_name": "San Francisco",
+          "short_name": "SF",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "San Francisco County",
+          "short_name": "San Francisco County",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "California",
+          "short_name": "CA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "94102",
+          "short_name": "94102",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "Civic Center, San Francisco, CA 94102, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": { "lat": 37.7828015, "lng": -122.4125167 },
+          "southwest": { "lat": 37.772905, "lng": -122.4231892 }
+        },
+        "location": { "lat": 37.7815533, "lng": -122.4156427 },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": { "lat": 37.7828015, "lng": -122.4125167 },
+          "southwest": { "lat": 37.772905, "lng": -122.4231892 }
+        }
+      },
+      "place_id": "ChIJ3eJWtI6AhYAR2ovTWatCF8s",
+      "types": ["neighborhood", "political"]
+    }
+  ],
+  "status": "OK"
+}

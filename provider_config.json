@@ -1,0 +1,10 @@
+{
+  "here": {
+    "app_id": "TODO: Add HERE App id",
+    "app_code": "TODO: Add HERE App code"
+  },
+
+  "google_maps": {
+    "api_key": "TODO: Add Google Maps API key"
+  }
+}

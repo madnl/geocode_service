@@ -1,0 +1,48 @@
+{
+  "Response": {
+    "MetaInfo": { "Timestamp": "2019-10-08T07:58:45.647+0000" },
+    "View": [
+      {
+        "_type": "SearchResultsViewType",
+        "ViewId": 0,
+        "Result": [
+          {
+            "Relevance": 1.0,
+            "MatchLevel": "district",
+            "MatchQuality": { "City": 1.0, "District": 1.0 },
+            "Location": {
+              "LocationId": "NT_3QFaSjb0E2O2W8sPS652MC",
+              "LocationType": "point",
+              "DisplayPosition": {
+                "Latitude": 37.77863,
+                "Longitude": -122.41683
+              },
+              "NavigationPosition": [
+                { "Latitude": 37.77863, "Longitude": -122.41683 }
+              ],
+              "MapView": {
+                "TopLeft": { "Latitude": 37.78226, "Longitude": -122.42373 },
+                "BottomRight": { "Latitude": 37.77304, "Longitude": -122.4103 }
+              },
+              "Address": {
+                "Label": "Civic Center, San Francisco, CA, United States",
+                "Country": "USA",
+                "State": "CA",
+                "County": "San Francisco",
+                "City": "San Francisco",
+                "District": "Civic Center",
+                "PostalCode": "94102",
+                "AdditionalData": [
+                  { "value": "United States", "key": "CountryName" },
+                  { "value": "California", "key": "StateName" },
+                  { "value": "San Francisco", "key": "CountyName" },
+                  { "value": "N", "key": "PostalCodeType" }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
